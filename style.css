@@ -1,0 +1,91 @@
+body{
+    font-family: 'Fjalla One', sans-serif;
+}
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size: 40px;
+    text-align: center;
+}
+h3{
+    font-size: 25px;
+}
+h5{
+    color: dimgray;
+    font-size: 15px;
+}
+p{
+    color: dimgray;
+}
+.name-highlight{
+    color: tomato;
+}
+.half-width{
+    width: 37.5%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 3%;
+}
+.half-width img{
+    width: 70%;
+   
+} 
+section{
+    height: 500px; 
+    width: 100%;
+    padding-bottom: 150px; 
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient( 45deg, cyan, blue);
+    padding: 10px 40px;
+    border-radius: 5px;
+    color: white;
+}
+.one-third-width{
+    width: 25%;
+    height: 90%;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 10px;
+    float: left;
+    margin-left: 4%;
+    padding-left: 3%;
+    padding-top: 1%;
+}
+.one-third-width img{
+    width:100% ;
+   
+}   
+.div1{
+    width: 37.5%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 3%;
+}
+.div1 p{
+    text-align: center;
+    padding-top: 52%;
+    padding-left: 15%;
+}
+.div1 h1{
+    text-align: center;
+    padding-top: 45%;
+    padding-left: 15%;
+    color: white;
+}
+.group-banner{
+    background-image: url(shapes/Group_33094_1.png);
+    background-repeat: no-repeat;
+    background-size: 70%;
+    background-position: center;
+}
+footer{
+    text-align: center;
+    padding-bottom: 5%;
+}
+footer img{
+    width: 2%;
+    padding-left: 1%;
+
+}
